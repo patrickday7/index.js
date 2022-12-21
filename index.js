@@ -10,3 +10,4 @@ const server = http.createServer((req, res) => {
 server.listen(port, () => {
   console.log(`Server running on http://localhost:${port}/`);
 });
+actions/checkout@v2, actions/setup-node@v1
